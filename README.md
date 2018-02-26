@@ -11,7 +11,7 @@ Asterisk integration project in Redmine system using voice recognition by Yandex
 Для корректной работы устанавливаем jq и sox (для конвертации файлов записи из asterisk)
 
 ```sh
-apt install -y gq sox
+apt install -y jq sox
 ```
 И Yandex Speech Kit Cloud (я взял версию на python'e)
 
